@@ -1,0 +1,17 @@
+[32m2024-03-29 17:59:05.863[0m | [1mINFO    [0m | [36m__main__[0m:[36mextract_chroma_vector_db[0m:[36m228[0m - [1mVector embedding database successfully loaded from ./chroma/[0m
+[32m2024-03-29 18:05:02.604[0m | [1mINFO    [0m | [36m__main__[0m:[36mextract_chroma_vector_db[0m:[36m228[0m - [1mVector embedding database successfully loaded from ./chroma/[0m
+[32m2024-11-06 11:49:50.502[0m | [1mINFO    [0m | [36mVectorDbManager[0m:[36mvector_db_confluence_docs[0m:[36m28[0m - [1mLoading Confluence documents[0m
+[32m2024-11-06 11:49:50.502[0m | [1mINFO    [0m | [36mVectorDbManager[0m:[36mvector_db_confluence_docs[0m:[36m30[0m - [1mSplitting texts[0m
+[32m2024-11-06 11:49:50.503[0m | [1mINFO    [0m | [36mVectorDbManager[0m:[36mprocess_batches[0m:[36m44[0m - [1mProcessing batch from 0 to 50[0m
+[32m2024-11-06 11:49:50.503[0m | [1mINFO    [0m | [36mVectorDbManager[0m:[36madd_documents_batch_to_vector_db[0m:[36m50[0m - [1mStoring batch in vector database[0m
+[32m2024-11-06 11:49:51.778[0m | [1mINFO    [0m | [36mVectorDbManager[0m:[36madd_documents_batch_to_vector_db[0m:[36m52[0m - [1mBatch stored successfully[0m
+[32m2024-11-06 11:49:51.779[0m | [1mINFO    [0m | [36mVectorDbManager[0m:[36mvector_db_confluence_docs[0m:[36m39[0m - [1mVector embedding database successfully created and stored in ./chroma-test/[0m
+[32m2024-11-06 11:49:53.547[0m | [1mINFO    [0m | [36mVectorDbManager[0m:[36mvector_db_confluence_docs[0m:[36m28[0m - [1mLoading Confluence documents[0m
+[32m2024-11-06 11:49:53.548[0m | [1mINFO    [0m | [36mVectorDbManager[0m:[36mvector_db_confluence_docs[0m:[36m30[0m - [1mSplitting texts[0m
+[32m2024-11-06 11:49:53.548[0m | [1mINFO    [0m | [36mVectorDbManager[0m:[36mprocess_batches[0m:[36m44[0m - [1mProcessing batch from 0 to 50[0m
+[32m2024-11-06 11:49:53.548[0m | [1mINFO    [0m | [36mVectorDbManager[0m:[36madd_documents_batch_to_vector_db[0m:[36m50[0m - [1mStoring batch in vector database[0m
+[32m2024-11-06 11:49:55.062[0m | [1mINFO    [0m | [36mVectorDbManager[0m:[36madd_documents_batch_to_vector_db[0m:[36m52[0m - [1mBatch stored successfully[0m
+[32m2024-11-06 11:49:55.062[0m | [1mINFO    [0m | [36mVectorDbManager[0m:[36mvector_db_confluence_docs[0m:[36m39[0m - [1mVector embedding database successfully created and stored in ./chroma-test/[0m
+[32m2024-11-06 15:49:22.140[0m | [1mINFO    [0m | [36mapp[0m:[36mextract_chroma_vector_db[0m:[36m113[0m - [1mVector embedding database successfully loaded from ./chroma-test/[0m
+[32m2024-11-06 15:55:55.408[0m | [1mINFO    [0m | [36mapp[0m:[36mextract_chroma_vector_db[0m:[36m113[0m - [1mVector embedding database successfully loaded from ./chroma-test/[0m
+[32m2024-11-06 15:55:56.908[0m | [1mINFO    [0m | [36mapp[0m:[36mextract_chroma_vector_db[0m:[36m113[0m - [1mVector embedding database successfully loaded from ./chroma-test/[0m
